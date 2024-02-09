@@ -1,0 +1,22 @@
+# Changes here will be overwritten by Copier
+_commit: 7ef0295
+_src_path: copier.templates/python.copier
+author_email: noirbizarre@gmail.com
+author_fullname: Axel Haustant
+author_username: noirbizarre
+copyright_license: MIT License
+has_docs: true
+is_cli: false
+is_lib: true
+is_private: false
+project_description: Python client and helper for Github API, actions and workflows
+project_name: gythub
+project_slug: gythub
+python_distribution: gythub
+python_package: gythub
+repository_name: gythub
+repository_namespace: noirbizarre
+repository_provider: github.com
+use_src: false
+
+# End
